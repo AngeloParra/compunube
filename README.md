@@ -1,6 +1,6 @@
 # Computación en la Nube
 
-[cite_start]Repositorio correspondiente a la asignatura **Computación en la Nube**, donde se almacenan las prácticas desarrolladas a lo largo del semestre.
+Repositorio correspondiente a la asignatura **Computación en la Nube**, donde se almacenan las prácticas desarrolladas a lo largo del semestre.
 
 ## Estudiante
 
